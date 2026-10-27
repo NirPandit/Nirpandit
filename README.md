@@ -65,5 +65,5 @@ Beyond backend engineering and **Web API / RESTful service** design, I bring dee
 
 ### 🤝 Connect With Me
 * 💼 **LinkedIn:** [Your Name / Profile Link](https://linkedin.com)
-* 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
+* 📧 **Email:** [your.email@example.com](nirsharma.sharma@gmail.com)
 * 🌐 **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
